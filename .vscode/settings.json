@@ -1,0 +1,18 @@
+{
+    "editor.formatOnSave": true,
+    "eslint.autoFixOnSave": true,
+    "eslint.enable": true,
+    "files.exclude": {
+        "**/.git": true, // this is a default value
+        "**/.DS_Store": true, // this is a default value
+        "**/node_modules": true, // this excludes all folders
+        "**/.cache": true, // this excludes all folders
+        "**/logs": true,
+        "**/dist": true,
+        "package-lock.json": true,
+        "apify_storage": true,
+        ".eslintignore": true,
+        ".gitignore": true,
+    },
+
+}
