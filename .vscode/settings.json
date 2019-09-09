@@ -11,8 +11,7 @@
         "**/dist": true,
         "package-lock.json": true,
         "apify_storage": true,
-        ".eslintignore": true,
-        ".gitignore": true,
+        ".eslintignore": true
     },
 
 }
